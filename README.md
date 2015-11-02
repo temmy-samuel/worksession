@@ -8,3 +8,8 @@ We are using:
 * [BitBucket](bitbucket.org)
 
 If you don't have those account, please sign up. 
+
+## Downloadables
+* [Git](https://git-scm.com/downloads)
+* [SourceTree](https://www.sourcetreeapp.com/)
+
