@@ -3,10 +3,10 @@ This document contain the things you need to do to get started in Tuning Synesth
 
 ## Things you need to know
 We are using:
-* [Todoist](todoist.com)(friendly reminder: please check the todoist everyday for newly added tasks)
-* [GitHub](github.com)
-* [BitBucket](bitbucket.org)
-* [Udemy](udemy.com)
+* [Todoist](https://www.todoist.com)(friendly reminder: please check the todoist everyday for newly added tasks)
+* [GitHub](https://www.github.com)
+* [BitBucket](https://www.bitbucket.org)
+* [Udemy](https://www.udemy.com)
 
 If you don't have those account, please sign up. 
 
