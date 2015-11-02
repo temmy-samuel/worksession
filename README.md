@@ -6,8 +6,7 @@ This document contain the things you need to do to get started in Tuning Synesth
 
 Please sign up, and task will be given to the todoist account. Check todoist daily for newly added task. If possible, please add the estimation time for finishing the task.
 
-You can signup trough here
-[todoist](https://todoist.com)
+You can signup trough [here](https://todoist.com)
 
 ## [Github](https://github.com)
 **Github** is a Web-based Git repository hosting service. It offers all of the distributed revision control and source code management (SCM) functionality of Git as well as adding its own features. For more information about Github,please do the tutorial on udemy about github.
