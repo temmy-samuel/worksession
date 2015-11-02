@@ -5,21 +5,21 @@ This document contain the things you need to do to get started in Tuning Synesth
 Please contact Chie for the server to gain access to the server content. You will get a username and password. Then you'll be able to access the tmp_people folder that contains the document of each individual that work on TS.
 
 ## Udemy
-Udemy is an online learning video tutorial library. Udemy provide tutorial for the intenship training program. You can access udemy by clicking [here](https://udemy.com). To get the access account, please contact Chie
+Udemy is an online learning video tutorial library. Udemy provide tutorial for the intenship training program. You can access udemy by clicking [here](https://udemy.com). To get the access account, please contact Chie.
 
 ## [Todoist](https://todoist.com)
 "**Todoist** is a project management application for personal and professional productivity. It allows users to manage their tasks from a smartphone, tablet or computer."-Wikipedia.com
 
 Please sign up, and tell Chie about your account so that you'll be invited into the projects. Task will be given to the todoist account. Check todoist daily for newly added task. If possible, please add the estimation time for finishing of the task by clicking on the task and put the deadline.
 
-You can signup trough [here](https://todoist.com)
+You can signup trough [here](https://todoist.com).
 
 ## [Github](https://github.com)
 "**Github** is a Web-based Git repository hosting service. It offers all of the distributed revision control and source code management (SCM) functionality of Git as well as adding its own features."-Wikipedia
 
 Github is used to share codes for project through online repository. For more information about Github, please do the tutorial on udemy about github. After you done with sign up and tutorial, please notify Chie about this so you'll be invited to the TS Github repository.
 
-You can also access Github through **Github Desktop** by downloading it [here](https://desktop.github.com/)
+You can also access Github through **Github Desktop** by downloading it [here](https://desktop.github.com/).
 
 "**Git** is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency."-Wikipedia.com
 
@@ -36,7 +36,7 @@ This is used in TS because of the free private repository. The use of this repos
 
 SourceTree is a desktop app that provide the usage of both github and bitbucket at the same platform. SourceTree also provide a few function that the github desktop doesn't have.
 
-Download [here](https://www.sourcetreeapp.com/)
+Download [here](https://www.sourcetreeapp.com/).
 
 ## Architecture
 
