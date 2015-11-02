@@ -1,15 +1,7 @@
 # Get Started
 This document contain the things you need to do to get started in Tuning Synesthesia.
 
-## Things you need to know
-We are using:
-* [Todoist](https://www.todoist.com)(friendly reminder: please check the todoist everyday for newly added tasks)
-* [GitHub](https://www.github.com)
-* [BitBucket](https://www.bitbucket.org)
+## [Todoist](https://todoist.com)
+Todoist is a project management application for personal and professional productivity. It allows users to manage their tasks from a smartphone, tablet or computer.
 
-If you don't have those account, please sign up. 
-
-## Downloadables
-* [Git](https://git-scm.com/downloads)
-* [SourceTree](https://www.sourcetreeapp.com/)
-
+Please sign up, and task will be given to the todoist account. Check todoist daily for newly added task. If possible, please add the estimation time for finishing the task.
