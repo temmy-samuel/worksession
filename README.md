@@ -5,7 +5,7 @@ This document contain the things you need to do to get started in Tuning Synesth
 Please contact Chie for the server to gain access to the server content. You will get a username and password. Then you'll be able to access the tmp_people folder that contains the document of each individual that work on TS.
 
 ## Udemy
-Udemy is an online learning video tutorial library. Udemy provide tutorial for the intenship training program. You can access udemy by clicking [here](https://udemy.com). To get the access account, please contact Chie.
+Udemy is an online learning video tutorial library. Udemy provide tutorial for the intenship training program. You can access udemy by clicking [here](https://udemy.com). To get the access account, please contact Chie. You can find the corresponding tutorial to your task in the MyCourse tab. If you have question about the tutorial, you can ask directly to the teacher in the tutorial through the discussion tab provided at the right side of the tutorial.
 
 ## [Todoist](https://todoist.com)
 "**Todoist** is a project management application for personal and professional productivity. It allows users to manage their tasks from a smartphone, tablet or computer."-Wikipedia.com
